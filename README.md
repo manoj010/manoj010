@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript**
 
-- 📫 How to reach me **manojale100@.com**
+- 📫 How to reach me **manojale100@gmail.com**
 
 - ⚡ Fun fact **✨karela✨**
 
