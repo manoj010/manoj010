@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java.**
 
-- 👨‍💻 All of my projects are available at [manojale.com](manojale.com)
+<!-- - 👨‍💻 All of my projects are available at [manojale.com](manojale.com) -->
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript**
 
