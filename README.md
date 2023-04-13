@@ -8,7 +8,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [manojale.com](manojale.com) -->
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript**
+- 💬 Ask me about **HTML5, CSS3, JavaScript.**
 
 - 📫 How to reach me **manojale100@gmail.com**
 
