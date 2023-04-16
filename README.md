@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Java-Notepad(Done).**
 
-- 🌱 I’m currently learning **Java.**
+- 🌱 I’m currently learning **Java and Laravel.**
 
 <!-- - 👨‍💻 All of my projects are available at [manojale.com](manojale.com) -->
 
