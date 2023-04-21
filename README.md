@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **manojale100@gmail.com**
 
-- ⚡ Fun fact **✨karela✨**
+- ⚡ Fun fact **✨alu✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
