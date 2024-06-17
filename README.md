@@ -1,18 +1,12 @@
-<h1 align="center">Hi 👋, I'm Manoj Ale</h1>
+<h1 align="center">Hi 👋, I'm Manoj.</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manoj010&label=Profile%20views&color=0e75b6&style=flat" alt="manoj010" /> </p>
-
-- 🔭 I’m currently working on **Platformer.**
+- 🔭 I’m currently working on **Budget Buddy.**
 
 - 🌱 I’m currently learning **Laravel and Java.**
 
-<!-- - 👨‍💻 All of my projects are available at [manojale.com](manojale.com) -->
-
-- 💬 Ask me about **HTML5, CSS3, JavaScript.**
+- 💬 Ask me about **Laravel, HTML5, CSS3, JavaScript.**
 
 - 📫 How to reach me **manojale100@gmail.com**
-
-- ⚡ Fun fact **✨alu✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
