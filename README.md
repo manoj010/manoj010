@@ -58,11 +58,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=manoj010&show_icons=true&theme=radical" alt="Manoj's GitHub stats" />
 </p> --->
 
+<!---
 <h2 align="center">Top Languages</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj010&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</p> --->
 
 <h2 align="center">Projects</h2>
 
@@ -70,21 +71,15 @@
   <a href="https://github.com/manoj010/BudgetBuddy" target="_blank">
     <img src="https://img.shields.io/badge/Budget%20Buddy-6DB33F?style=flat&logo=github&logoColor=white" alt="Budget Buddy" height="20">
   </a>
-</p>
-
-<p align="center">
+  
   <a href="https://github.com/manoj010/tom-jerry" target="_blank">
     <img src="https://img.shields.io/badge/Tom%20Jerry-32c28d?style=flat&logo=github&logoColor=white" alt="Budget Buddy" height="20">
   </a>
-</p>
 
-<p align="center">
   <a href="https://github.com/manoj010/frogger" target="_blank">
     <img src="https://img.shields.io/badge/Frogger%20-346ee3?style=flat&logo=github&logoColor=white" alt="Budget Buddy" height="20">
   </a>
-</p>
 
-<p align="center">
   <a href="https://github.com/manoj010?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/More%20Projects-181717?style=flat&logo=github&logoColor=white" alt="More Projects" height="20">
   </a>
