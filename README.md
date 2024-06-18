@@ -84,9 +84,3 @@
     <img src="https://img.shields.io/badge/More%20Projects-181717?style=flat&logo=github&logoColor=white" alt="More Projects" height="20">
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/manoj-ale" target="_blank">
-    <img src="https://img.shields.io/github/followers/manoj010?label=Follow&style=social" alt="GitHub Followers">
-  </a>
-</p>
