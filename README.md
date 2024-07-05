@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manoj</h1>
 
-<p align="center">
+<!--- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manoj010&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+</p> ---->
 
 <p align="center">
   <a href="https://linkedin.com/in/manoj-ale-8898a3199" target="_blank">
