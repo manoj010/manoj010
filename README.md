@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/.NET%20MVC-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET MVC">
-  <img src="https://img.shields.io/badge/Gulp.js-CF4647?style=flat&logo=gulp&logoColor=white" alt="Gulp.js">
+<!--   <img src="https://img.shields.io/badge/Gulp.js-CF4647?style=flat&logo=gulp&logoColor=white" alt="Gulp.js"> -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Microsoft%20SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
