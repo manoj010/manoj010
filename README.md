@@ -19,9 +19,8 @@
 <h2 align="center">About Me</h2>
 
 <p align="center" style="font-size: 14px;">
-  🔭 I’m currently working on <strong>Budget Buddy</strong>.<br>
-  🌱 I’m currently learning <strong>Laravel and Java</strong>.<br>
-  💬 Ask me about <strong>Laravel, HTML5, CSS3, JavaScript</strong>.<br>
+  🔭 Currently working on <strong>Budget Buddy</strong>.<br>
+  🌱 Currently learning <strong>Laravel and React</strong>.<br>
   📫 How to reach me <strong>manojale100@gmail.com</strong>
 </p>
 
@@ -29,6 +28,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Postgres-336791?style=flat&logo=postgresql&logoColor=white" alt="Postgres">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
@@ -36,16 +36,15 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white" alt="SASS">
+  <img src="https://img.shields.io/badge/.NET%20MVC-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET MVC">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SSMS">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/.NET%20MVC-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET MVC">
-<!--   <img src="https://img.shields.io/badge/Gulp.js-CF4647?style=flat&logo=gulp&logoColor=white" alt="Gulp.js"> -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" alt="Photoshop">
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white" alt="Illustrator">
@@ -74,11 +73,11 @@
   </a>
   
   <a href="https://github.com/manoj010/tom-jerry" target="_blank">
-    <img src="https://img.shields.io/badge/Tom%20Jerry-32c28d?style=flat&logo=github&logoColor=white" alt="Budget Buddy" height="20">
+    <img src="https://img.shields.io/badge/Tom%20Jerry-32c28d?style=flat&logo=github&logoColor=white" alt="Tom Jerry" height="20">
   </a>
 
   <a href="https://github.com/manoj010/frogger" target="_blank">
-    <img src="https://img.shields.io/badge/Frogger%20-346ee3?style=flat&logo=github&logoColor=white" alt="Budget Buddy" height="20">
+    <img src="https://img.shields.io/badge/Frogger%20-346ee3?style=flat&logo=github&logoColor=white" alt="Frogger" height="20">
   </a>
 
   <a href="https://github.com/manoj010?tab=repositories" target="_blank">
