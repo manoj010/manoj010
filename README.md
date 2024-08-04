@@ -68,8 +68,12 @@
 <h2 align="center">Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/manoj010/BudgetBuddy" target="_blank">
-    <img src="https://img.shields.io/badge/Budget%20Buddy-6DB33F?style=flat&logo=github&logoColor=white" alt="Budget Buddy" height="20">
+  <a href="https://github.com/Aashey/BudgetBuddy-Frontend" target="_blank">
+    <img src="https://img.shields.io/badge/BudgetBuddy%20Frontend-A020F0?style=flat&logo=github&logoColor=white" alt="BudgetBuddy" height="20">
+  </a>
+  
+  <a href="https://github.com/manoj010/BudgetBuddy-Backend" target="_blank">
+    <img src="https://img.shields.io/badge/BudgetBuddy%20Backend-6DB33F?style=flat&logo=github&logoColor=white" alt="BudgetBuddy" height="20">
   </a>
   
   <a href="https://github.com/manoj010/tom-jerry" target="_blank">
