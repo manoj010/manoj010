@@ -11,9 +11,9 @@
   <a href="https://instagram.com/_karela104" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" height="20">
   </a>
-  <a href="https://stackoverflow.com/users/12936427" target="_blank">
+<!--   <a href="https://stackoverflow.com/users/12936427" target="_blank">
     <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" height="20">
-  </a>
+  </a> -->
 </p>
 
 <h2 align="center">About Me</h2>
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SSMS">
+  <img src="https://img.shields.io/badge/SQL_Server_Management_Studio-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SSMS">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#">
