@@ -19,9 +19,9 @@
 <h2 align="center">About Me</h2>
 
 <p align="center" style="font-size: 14px;">
-  🔭 Currently working on <strong>Budget Buddy</strong>.<br>
-  🌱 Currently learning <strong>Laravel and React</strong>.<br>
-  📫 Reach me? <strong>"manojale100@gmail.com"</strong>
+<!--   🔭 Currently working on <strong>Budget Buddy</strong>.<br>
+  🌱 Currently learning <strong>Laravel and React</strong>.<br> -->
+  📫 Reach me? <strong>"manoj.ale2002@gmail.com"</strong>
 </p>
 
 <h2 align="center">Tech & Tools</h2>
